@@ -1,0 +1,7 @@
+sistemare la cosa del vettore che non deve essere una matrice, ma un vettore da due elementi
+magari fare inner class
+
+poi sistemare quello che cerca la differenza massima ì, cosi non ha senso
+>capire se il findsolo iniziale è giusto, non so se il sort funziona giusto.
+>controllre che la scelta della mossa sia giusta e anche l'update della add list
+>non sono sicuro che il metodo contains fuzioni correttamente sugli arary di interi
